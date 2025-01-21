@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/2b1241c9-21d9-46ad-b1fb-a2fcd4df2572)
 
 # Challenger
-***⚠️ This app is in BETA, most key features are there but a lot is missing. LTS not yet decided***
+***⚠️ This app is in BETA, most key features are there but a lot is missing. Not is a release state, consider it as a v0.0.1***
 ## Description
 
 **Overview**  
