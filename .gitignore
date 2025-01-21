@@ -94,3 +94,6 @@ out/
 
 # Temp files
 .temp/
+
+# Riot pem
+riotgames.pem
