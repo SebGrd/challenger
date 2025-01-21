@@ -36,3 +36,6 @@ The app enhances the League of Legends experience beyond the standard client, he
 - Build camaraderie by competing and collaborating with friends.  
 
 Experience a smarter, more strategic way to tackle challenges and climb the ranks.
+
+## Legal
+Challenger was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project.
